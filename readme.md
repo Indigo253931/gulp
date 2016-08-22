@@ -202,3 +202,7 @@ Exciting stuff! Here's a quick look at some of the [new ES6 syntax](https://gith
 * As mentioned previously, you can have `gulp` **watch** files for changes using [gulp-watch](https://www.npmjs.com/package/gulp-watch).
 * You can bundle your multiple files into one output file with [gulp-concat](https://github.com/contra/gulp-concat).
 * And also minify [JS](https://github.com/terinjokes/gulp-uglify) or [CSS](https://github.com/scniro/gulp-clean-css)!
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
